@@ -1,3 +1,4 @@
-It is my first GitHub.
+Read Me.
 
-add 3line.
+これは15時間でわかるGit集中講座の勉強用Repositoryです。
+
